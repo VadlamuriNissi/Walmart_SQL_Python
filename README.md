@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-![Project Pipeline](https://github.com/najirh/Walmart_SQL_Python/blob/main/walmart_project-piplelines.png)
+![Project Pipeline](https://github.com/VadlamuriNissi/Walmart_SQL_Python/blob/main/walmart_project-piplelines.png)
 
 
 This project is an end-to-end data analysis solution designed to extract critical business insights from Walmart sales data. We utilize Python for data processing and analysis, SQL for advanced querying, and structured problem-solving techniques to solve key business questions. The project is ideal for data analysts looking to develop skills in data manipulation, SQL querying, and data pipeline creation.
@@ -61,15 +61,6 @@ This project is an end-to-end data analysis solution designed to extract critica
      - Analyzing peak sales periods and customer buying patterns.
      - Profit margin analysis by branch and category.
    - **Documentation**: Keep clear notes of each query's objective, approach, and results.
-
-### 10. Project Publishing and Documentation
-   - **Documentation**: Maintain well-structured documentation of the entire process in Markdown or a Jupyter Notebook.
-   - **Project Publishing**: Publish the completed project on GitHub or any other version control platform, including:
-     - The `README.md` file (this document).
-     - Jupyter Notebooks (if applicable).
-     - SQL query scripts.
-     - Data files (if possible) or steps to access them.
-
 ---
 
 ## Requirements
@@ -114,4 +105,5 @@ Possible extensions to this project:
 - **Inspiration**: Walmart’s business case studies on sales and supply chain optimization.
 
 ---
+
 
